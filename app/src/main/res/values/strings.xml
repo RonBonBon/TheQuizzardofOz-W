@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Quizzard of Oz</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="about_us">We are in the kingdom of OZ specialize in Trivia Games and General Knowledge.\nYour opinion is very important to us, please send us suggestions for improvement, ideas and anything else that you think we should know, and we promise to treat every request.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

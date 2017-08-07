@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1089508733597",
+    "firebase_url": "https://thequizzardofoz-w.firebaseio.com",
+    "project_id": "thequizzardofoz-w",
+    "storage_bucket": "thequizzardofoz-w.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089508733597:android:03c260c70b9fba36",
+        "android_client_info": {
+          "package_name": "com.arichafamily.thequizzardofoz_w"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089508733597-nid5l6f0chvvi16tdb12sv2uj6jl78ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arichafamily.thequizzardofoz_w",
+            "certificate_hash": "8cd0c34eb61decd6230bfc4b8bd9f3c534a88694"
+          }
+        },
+        {
+          "client_id": "1089508733597-g5mojjj5dj9ds8lr9qln0ogvnsjdrtrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP4C9dekM1DOLO_5mom9nvz1BRxQ882Yo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089508733597-g5mojjj5dj9ds8lr9qln0ogvnsjdrtrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
